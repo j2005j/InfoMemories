@@ -8,7 +8,7 @@ camera's **MENU key exits** the app. Launcher display name and the
 72×96 portrait icon (Sony's PlayMemories launcher format) come from app
 resources, so it sits alongside the camera's own apps.
 
-## Why CPU-Z / A6300 don't survive on this camera
+## Why CPU-Z / AIDA64 don't survive on this camera
 
 A full camera restart (not just an app force-close) means something below
 the app layer died. The usual suspects in CPU-Z/AIDA64:
