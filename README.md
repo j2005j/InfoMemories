@@ -1,4 +1,8 @@
-# InfoMemories
+<p align="center">
+  <img src="icon.png" width="144" alt="InfoMemories icon">
+</p>
+
+<h1 align="center">InfoMemories</h1>
 
 A CPU-Z-style hardware reader built specifically to **not crash the Sony
 A6300** (and other PlayMemories/Android-subsystem Sony cameras).
@@ -68,9 +72,12 @@ Sideload `build/camhwinfo.apk` with your usual OpenMemories method.
   does it), first icon.
 - **1.2** — 72×96 portrait icon in `drawable-nodpi` (square launcher
   icons get stretched by the PlayMemories launcher).
-- **1.3** *(current, versionCode 4)* — clean rebuild: resource label
+- **1.3** — clean rebuild: resource label
   "InfoMemories", 72×96 icon letterboxed from the launcher art, MENU
   exit, auto-read on launch, zero permissions.
+- **1.4** *(current, versionCode 5)* — new launcher icon (orange
+  question-mark + camera artwork supplied by the author); icon shown at
+  the top of this README.
 
 ## Project layout
 
